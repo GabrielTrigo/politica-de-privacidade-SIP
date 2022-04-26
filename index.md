@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## Política de Privacidade SIP App
 
-You can use the [editor on GitHub](https://github.com/GabrielTrigo/sip/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SIP é aplicativo da Vianet Informática, inscrita no CNPJ 05.056.913/0001-43, feito para facilitar a conexão entre a prefeitura e o cidadão. Nós respeitamos suas informações e sua privacidade, veja o que acontece quando você utiliza o SIP App:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### 1 - Quais dados coletamos? Quando você abre uma nova solicitação no SIP nós coletamos algumas informações pessoais, são elas:
+- CPF
+- Nome
+- Telefone
+- Localização por GPS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2 - Porquê coletamos tais dados:
 
-```markdown
-Syntax highlighted code block
+Temos 2 (dois) objetivos ao coletarmos essas informações. O primeiro é conceder acesso ao SIP App a partir do CPF cadastrado. O segundo objetivo - e motivo de coletarmos seu nome e telefone - é termos a possibilidade de entrarmos em contato com você para mais informações sobre o chamado aberto. O terceiro objetivo é ter o máximo de informações possíveis sobre o chamado para que ele receba o correto tratamento pela pessoa responsável pela execução do chamado.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### 3 - Como utilizamos esses dados:
 
-1. Numbered
-2. List
+As suas informações serão coletadas, usadas e tratadas única e exclusivamente para que as funcionalidades do Aplicativo mobile cumpram seu papel de informar a prefeitura a necessidade de manutenção, e serão armazenadas em ambiente seguro e de acesso restrito, atendendo a preservação da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### 4 - Com quem compartilhamos esses dados:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  - 4.1 Enquanto um chamado estiver aberto, se houver necessidade de mais informações, as suas informações pessoais poderão ser compartilhadas com a prefeitura com a intenção de dirimir dúvidas sobre o chamado. Não nos responsabilizamos pelo tratamento dado pela prefeitura sobre as informações compartilhadas, sendo apenas dela a responsabilidade sobre os dados.
 
-### Jekyll Themes
+As informações coletadas poderão ser compartilhadas com a prefeitura conforme item 4.1.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GabrielTrigo/sip/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 5. Direitos dos titulares dos dados:
 
-### Support or Contact
+O SIP App observará todos os direitos assegurados aos titulares dos dados pessoais, previstos no art. 18 da Lei Geral de Proteção de Dados, sendo garantido o atendimento às requisições do Usuário de:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- (i)   confirmação da existência de tratamento;
+
+- (ii)  acesso aos dados;
+
+- (iii) correção de dados incompletos, inexatos ou desatualizados;
+
+- (iv) anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na LGPD
+
+- (v) portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa e observados os segredos comercial e industrial;
+
+- (vi) portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial;
+
+- (vii) eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art. 16 da LGPD
+
+- (viii) informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+
+- (ix) informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa; e
+
+- (x)  revogação do consentimento.
+
+
+Os direitos assegurados aos titulares de dados pessoais poderão ser exercidos pelo Usuário, a qualquer momento, mediante envio de requisição específica ao endereço eletrônico: lgpd@exati.com.br
+
+
+Caso o Usuário tenha dúvidas ou reclamações sobre as práticas de uso e tratamento de dados, deverá manifestá-las pelo envio de e-mail ao mesmo endereço indicado acima.
+
+
+Sem prejuízo das mudanças que efetue, o SIP App conservará os dados pessoais originais por motivos de segurança e controle de fraudes.
+
+
+Em casos excepcionais, em conformidade com a legislação brasileira, serão mantidos nos arquivos do SIP App os dados pessoais de Usuários que nos tenham requerido expressamente sua remoção, com o objetivo de utilizá-los para solução de litígios ou reclamações, detecção de problemas ou incidentes e dar cumprimento ao disposto nos Termos e Condições de Uso.
