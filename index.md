@@ -1,6 +1,6 @@
 ## Política de Privacidade SIP App
 
-SIP é aplicativo da Vianet Informática, inscrita no CNPJ 05.056.913/0001-43, feito para facilitar a conexão entre a prefeitura e o cidadão. Nós respeitamos suas informações e sua privacidade, veja o que acontece quando você utiliza o SIP App:
+SIP é aplicativo da Vianet Informática, inscrita no CNPJ 05.056.913/0001-43, feito para o usuário informar problemas de iluminação. Nós respeitamos suas informações e sua privacidade, veja o que acontece quando você utiliza o SIP App:
 
 
 #### 1 - Quais dados coletamos? Quando você abre uma nova solicitação no SIP nós coletamos algumas informações pessoais, são elas:
@@ -16,14 +16,12 @@ Temos 2 (dois) objetivos ao coletarmos essas informações. O primeiro é conced
 
 #### 3 - Como utilizamos esses dados:
 
-As suas informações serão coletadas, usadas e tratadas única e exclusivamente para que as funcionalidades do Aplicativo mobile cumpram seu papel de informar a prefeitura a necessidade de manutenção, e serão armazenadas em ambiente seguro e de acesso restrito, atendendo a preservação da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas.
+As suas informações serão coletadas, usadas e tratadas única e exclusivamente para que as funcionalidades do Aplicativo mobile cumpram seu papel de informar a necessidade de manutenção, e serão armazenadas em ambiente seguro e de acesso restrito, atendendo a preservação da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas.
 
 
 #### 4 - Com quem compartilhamos esses dados:
 
-  - 4.1 Enquanto um chamado estiver aberto, se houver necessidade de mais informações, as suas informações pessoais poderão ser compartilhadas com a prefeitura com a intenção de dirimir dúvidas sobre o chamado. Não nos responsabilizamos pelo tratamento dado pela prefeitura sobre as informações compartilhadas, sendo apenas dela a responsabilidade sobre os dados.
-
-As informações coletadas poderão ser compartilhadas com a prefeitura conforme item 4.1.
+  - 4.1 Com ninguém. Os dados são apenas para o funcionamento do app.
 
 #### 5. Direitos dos titulares dos dados:
 
